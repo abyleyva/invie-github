@@ -1,2 +1,2 @@
 # invie-github
-trabajando primier repositorio en github
+trabajando primer repositorio en github @byAby
